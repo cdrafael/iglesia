@@ -1,0 +1,13 @@
+.ui.borderless.fixed.container.stackable.menu {
+  box-shadow: none;
+  border: none;
+}
+
+a.text {
+  color: black;
+}
+
+.ui.visible.left.vertical.sidebar.menu {
+  width: 240px;
+}
+
