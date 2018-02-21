@@ -1,13 +1,21 @@
-.ui.borderless.fixed.container.stackable.menu {
+.ui.borderless.fixed.container.menu {
   box-shadow: none;
   border: none;
+  width: 1660px;
 }
 
 a.text {
-  color: black;
+    color: black;
+    font-size: 22px;
 }
 
-.ui.visible.left.vertical.sidebar.menu {
-  width: 240px;
+a.item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
+body {
+    background-image: url(https://996763e5fbdaee0bb282-f97edd160cf05fcd22813ae8244b1174.ssl.cf2.rackcdn.com/temple3.jpg);
+    background-size: cover;
+}
